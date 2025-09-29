@@ -12,7 +12,7 @@ body {
 /* Encabezado */
 header {
   padding: 18px;
-  background: url("img/IMG2.jpg") no-repeat center center;
+  background: url("img/img2.jpg") no-repeat center center;
   background-size: cover;
   color: #66fcf1;
 }
@@ -91,7 +91,7 @@ nav {
 body {
     margin: 0;
     padding: 0;
-    background: url("img/Gif3.gif") no-repeat center center fixed;
+    background: url("img/gif3.gif") no-repeat center center fixed;
     background-size: cover;
     position: relative;
     z-index: 0;
@@ -137,4 +137,5 @@ footer {
 
 
   
+
 
