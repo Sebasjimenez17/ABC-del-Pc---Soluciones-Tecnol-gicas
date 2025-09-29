@@ -10,7 +10,7 @@ body {
 /* Encabezado */
 header {
   padding: 18px;
-  background: url("../IMG/IMG2.jpg") no-repeat center center;
+  background: url("IMG/IMG2.jpg") no-repeat center center;
   background-size: cover;
   color: #66fcf1;
 }
@@ -160,7 +160,7 @@ nav a:hover {
 body {
   margin: 0;
   padding: 0;
-  background: url("../IMG/Gif1.gif") no-repeat center center fixed;
+  background: url("IMG/Gif1.gif") no-repeat center center fixed;
   background-size: cover;
   position: relative;
   z-index: 0;
@@ -195,4 +195,5 @@ footer {
   padding: 20px;
   margin-top: 50px;
 }
+
 
