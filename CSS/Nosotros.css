@@ -12,7 +12,7 @@ body {
 /* Encabezado */
 header {
   padding: 18px;
-  background: url("img/img2.jpg") no-repeat center center;
+  background: url("IMG/img2.jpg") no-repeat center center;
   background-size: cover;
   color: #66fcf1;
 }
@@ -212,6 +212,7 @@ footer {
 
 
   
+
 
 
 
