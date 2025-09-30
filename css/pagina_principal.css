@@ -10,7 +10,7 @@ body {
 /* Encabezado */
 header {
   padding: 18px;
-  background: url("img/encabezado.jpg") no-repeat center center;
+  background: url("../img/encabezado.jpg") no-repeat center center;
   background-size: cover;
   color: #66fcf1;
 }
@@ -195,5 +195,6 @@ footer {
   padding: 20px;
   margin-top: 50px;
 }
+
 
 
