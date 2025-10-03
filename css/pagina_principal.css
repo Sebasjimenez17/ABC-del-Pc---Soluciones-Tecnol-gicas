@@ -10,7 +10,7 @@ body {
 /* Encabezado */
 header {
   padding: 18px;
-  background: url("https://github.com/Sebasjimenez17/ABC-del-Pc---Soluciones-Tecnol-gicas/blob/main/img/encabezado.jpg") no-repeat center center;
+  background: url("main/img/encabezado.jpg") no-repeat center center;
   background-size: cover;
   color: #66fcf1;
 }
@@ -195,6 +195,7 @@ footer {
   padding: 20px;
   margin-top: 50px;
 }
+
 
 
 
