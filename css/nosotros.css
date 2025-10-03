@@ -12,7 +12,7 @@ body {
 /* Encabezado */
 header {
   padding: 18px;
-  background: url("/img/encabezado.jpg") no-repeat center center;
+  background: url("../img/encabezado.jpg") no-repeat center center;
   background-size: cover;
   color: #66fcf1;
 }
@@ -166,7 +166,7 @@ nav {
 body {
     margin: 0;
     padding: 0;
-    background: url("/img/pgn2.gif") no-repeat center center fixed;
+    background: url("../img/pgn2.gif") no-repeat center center fixed;
     background-size: cover;
     position: relative;
     z-index: 0;
@@ -209,5 +209,6 @@ footer {
   }
   
   /* ========================================================================================*/
+
 
   
